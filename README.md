@@ -1,4 +1,4 @@
-# Unity-AlphaVideo-Converter
+# Unity-Alpha-Mov-Converter
 Convert mov files into a format that can be played by Unity VideoPlayer.
 
 ## Environment
